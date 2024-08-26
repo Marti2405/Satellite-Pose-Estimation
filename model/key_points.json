@@ -1,0 +1,48 @@
+{
+    "key_points": [
+        {
+            "name": "front_bottom_right",
+            "position": [0.369955, -0.284232, 0]
+        },
+        {
+            "name": "front_bottom_left",
+            "position": [-0.369955, -0.284232, 0]
+        },
+        {
+            "name": "back_bottom_right",
+            "position": [0.369955, -0.284232, 0]
+        },
+        {
+            "name": "back_bottom_left",
+            "position": [-0.369955, 0.284232, 0]
+        },
+        {
+            "name": "front_top_right",
+            "position": [0.37038, -0.362269, 0.325677]
+        },
+        {
+            "name": "front_top_left",
+            "position": [-0.37038, -0.362269, 0.325677]
+        },
+        {
+            "name": "back_top_right",
+            "position": [0.37038, 0.362269, 0.325677]
+        },
+        {
+            "name": "back_top_left",
+            "position": [-0.37038, 0.362269, 0.325677]
+        },
+        {
+            "name": "front_antenna",
+            "position": [0.299655, -0.557408, 0.258644]
+        },
+        {
+            "name": "right_antenna",
+            "position": [0.537382, 0.493957, 0.258644]
+        },
+        {
+            "name": "left_antenna",
+            "position": [-0.537382, 0.493957, 0.258644]
+        }
+    ]
+}
